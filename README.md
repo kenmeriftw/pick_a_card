@@ -6,12 +6,11 @@ Try to guess a random card and pick it!
 
 You have four suits
 
-#### To start the application, clone this repo, cd to this dir and run on your local machine's terminal
+#### To start the application, clone this repo, cd to this dir and run `bundle` on your local machine's terminal
+You have to have `ruby` and `bundler` installed on your machine.
 
 ```
 ruby pick_a_card.rb
 ```
 
 ![alt text](https://media.giphy.com/media/HRpMyOye9SYaE1s6N3/giphy.gif)
-
-You have to have `ruby` installed on your machine.
